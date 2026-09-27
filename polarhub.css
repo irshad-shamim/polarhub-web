@@ -149,8 +149,6 @@
     background-image: url(cover-image-polahub.png);
     background-size: cover;
     border-radius: 15px;
-
-
 }
 
 .cover-image-line1{
@@ -180,7 +178,139 @@
 .body-main-div-1{
     height: 200px;
     width: 1000px;
-    border: solid 2px rgb(22, 126, 126);
     margin-left: 180px;
     margin-top: 10px;
+    display: flex;
+}
+
+.body-local-div-1{
+    height: 200px;
+    width: 240px;
+    border: solid 2px rgb(22, 126, 126);
+    background-image: url("main-div-image-1.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+.local-div-1-line-1{
+    color: white;
+    font-size: 15px;
+    font-weight:400;
+    margin-top: 110px;
+    margin-left: 20px;
+}
+.local-div-1-line-2{
+    color: rgba(255, 255, 255, 0.644);
+    font-size: 12px;
+    font-weight:400;
+    margin-top: 5px;
+    margin-left: 23px;
+}
+.local-div-1-line-3{
+    text-decoration: none;
+    color: aqua;
+    font-size: 20px;
+    font-weight:400;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+/*----------------------------------------------------*/
+.body-local-div-2{
+    height: 200px;
+    width: 240px;
+    border: solid 2px rgb(22, 126, 126);
+    margin-left: 10px;
+    background-image: url("main-div-newimg-2.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+.local-div-2-line-1{
+    color: white;
+    font-size: 15px;
+    font-weight:400;
+    margin-top: 110px;
+    margin-left: 50px;
+}
+.local-div-2-line-2{
+    color: rgba(255, 255, 255, 0.644);
+    font-size: 12px;
+    font-weight:400;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.local-div-2-line-3{
+    text-decoration: none;
+    color: aqua;
+    font-size: 20px;
+    font-weight:400;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+/*------------------------------------------------*/
+
+.body-local-div-3{
+    height: 200px;
+    width: 240px;
+    border: solid 2px rgb(22, 126, 126);
+    margin-left: 10px;
+    background-image: url("main-div-newimg-3.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+.local-div-3-line-1{
+    color: white;
+    font-size: 15px;
+    font-weight:400;
+    margin-top: 110px;
+    margin-left: 70px;
+}
+.local-div-3-line-2{
+    color: rgba(255, 255, 255, 0.644);
+    font-size: 12px;
+    font-weight:400;
+    margin-top: 5px;
+    margin-left: 23px;
+}
+.local-div-3-line-3{
+    text-decoration: none;
+    color: aqua;
+    font-size: 20px;
+    font-weight:400;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+/*----------------------------------------*/
+
+.body-local-div-4{
+    height: 200px;
+    width: 240px;
+    border: solid 2px rgb(22, 126, 126);
+    margin-left: 10px;
+    background-image: url("main-div-body-image-4.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+.local-div-4-line-1{
+    color: white;
+    font-size: 15px;
+    font-weight:400;
+    margin-top: 110px;
+    margin-left: 30px;
+}
+.local-div-4-line-2{
+    color: rgba(255, 255, 255, 0.644);
+    font-size: 12px;
+    font-weight:400;
+    margin-top: 5px;
+    margin-left: 40px;
+}
+.local-div-4-line-3{
+    text-decoration: none;
+    color: aqua;
+    font-size: 20px;
+    font-weight:400;
+    margin-top: 20px;
+    margin-left: 100px;
 }
