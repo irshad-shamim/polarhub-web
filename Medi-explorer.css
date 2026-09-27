@@ -79,3 +79,108 @@
     color: white;
     padding-left: 20px;
 }
+
+/*------------------------------------text media -----------------------------*/
+
+.text-media-div{
+    height: 80px;
+    width: 100%;
+    background-color: none;
+}
+
+.text-mdeia-div-1-line1{
+    padding-top: 10px;
+    color: blue;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.text-mdeia-div-1-line2{
+    color: black;
+    font-size: 15px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+
+/*---------------------body div 1 -----------------------------*/
+
+.body-div-1{
+    height: 200px;
+    width: 1000px;
+    display: flex;
+    margin-left: 170px;
+    background-color: none;
+    margin-top: 20px;
+}
+.box-1{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    border-radius: 15px;
+}
+.box-2{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.box-3{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.box-4{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+/*---------------------body div 2 -----------------------------*/
+
+.body-div-2{
+    height: 200px;
+    width: 1000px;
+    display: flex;
+    margin-left: 170px;
+    background-color: none;
+    margin-top: 20px;
+}
+
+.box-5{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    border-radius: 15px;
+}
+
+.box-6{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    border-radius: 15px;
+    margin-left: 20px;
+    
+}
+
+.box-7{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.box-8{
+    height: 200px;
+    width: 230px;
+    border: 1.5px solid red;
+    border-radius: 15px;
+    margin-left: 20px;
+}
