@@ -314,3 +314,34 @@
     margin-top: 20px;
     margin-left: 100px;
 }
+
+
+/* -------------------------- body div 2 ----------------------*/
+
+.body-div-2{
+    height: 150px;
+    width: 1000px;
+    border: 1.5px solid aqua;
+    margin-left: 180px;
+    margin-top: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.heading-unlist{
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.li-itmem{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 25px;
+    padding-top: 10px;
+    color: black;
+}
+
+/*--------------------------------fotter------------------------------------------------*/ 
